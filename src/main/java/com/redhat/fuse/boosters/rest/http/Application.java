@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Application {
 
     /**
-     * Main method to start the application.
+     * Main method to start the application 3cale.
      */
     public static void main(String[] args) {
         SpringApplication.run(Application.class, args);
